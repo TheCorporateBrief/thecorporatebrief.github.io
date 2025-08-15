@@ -4,6 +4,6 @@ title: Deals
 ---
 <h2>Deals</h2>
 <div class="grid">
-{% assign posts_filtered = site.posts | where_exp: "p", "p.categories contains 'deals'" %}
-{% for post in posts_filtered %}{% include card.html post=post %}{% endfor %}
+{% assign list = site.posts | where_exp: "p", "p.categories contains 'deals'" | sort: 'date' | reverse %}
+{% for post in list %}{% include card.html post=post %}{% endfor %}
 </div>
