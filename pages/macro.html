@@ -1,0 +1,9 @@
+---
+layout: default
+title: Macro / Policy
+---
+<h2>Macro / Policy</h2>
+<div class="grid">
+{% assign posts_filtered = site.posts | where_exp: "p", "p.categories contains 'macro'" %}
+{% for post in posts_filtered %}{% include card.html post=post %}{% endfor %}
+</div>

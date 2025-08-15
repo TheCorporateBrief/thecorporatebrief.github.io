@@ -1,0 +1,13 @@
+<div class="card">
+  <div class="card-body">
+    <h3 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+    {% if post.subhead %}<p class="subhead">{{ post.subhead }}</p>{% endif %}
+    {% if post.why %}
+      <ul class="why">
+      {% for b in post.why %}<li>{{ b }}</li>{% endfor %}
+      </ul>
+    {% endif %}
+    {% if post.source %}<p class="source"><a href="{{ post.source }}" target="_blank" rel="noopener">source</a></p>{% endif %}
+    {% if post.take %}<p class="take"><strong>TCB take:</strong> {{ post.take }}</p>{% endif %}
+  </div>
+</div>

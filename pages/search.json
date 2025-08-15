@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /search.json
+---
+[
+{% assign count = 0 %}
+{% for post in site.posts %}
+  {% assign count = count | plus: 1 %}
+  { "title": "{{ post.title | escape }}", "url": "{{ post.url | relative_url }}", "content": "{{ post.content | strip_html | strip_newlines | truncate: 300 | escape }}" }{% if count < site.posts | size %},{% endif %}
+{% endfor %}
+]

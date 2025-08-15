@@ -1,0 +1,29 @@
+name: Weekly draft (Saturday 23:00 London)
+on:
+  schedule:
+    - cron: "0 22 * * 6"   # Sat 23:00 during BST (UTC+1)
+    - cron: "0 23 * * 6"   # Sat 23:00 during GMT
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: weekly-draft
+  cancel-in-progress: false
+jobs:
+  build_draft:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install feedparser
+      - name: Build weekly draft
+        run: python scripts/build_weekly.py
+      - name: Commit draft
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Create/refresh weekly draft" || echo "No changes"
+          git push

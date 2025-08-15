@@ -1,0 +1,19 @@
+name: Build Jekyll (staging only)
+on:
+  push:
+    branches: [ "main" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+          bundler-cache: true
+      - name: Install Jekyll deps
+        run: |
+          bundle init || true
+          bundle add jekyll jekyll-feed jekyll-seo-tag
+      - name: Build site
+        run: bundle exec jekyll build --trace

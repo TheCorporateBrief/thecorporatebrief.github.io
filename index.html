@@ -1,0 +1,14 @@
+---
+layout: default
+title: Home
+---
+<section class="hero">
+  <h1>The Corporate Brief</h1>
+  <p class="tagline">Weekly TL;DR on markets, macro, geopolitics, deals & IPOs.</p>
+</section>
+<div class="scroll-row">
+  {% assign posts_sorted = site.posts | sort: 'date' | reverse %}
+  {% for post in posts_sorted limit: 10 %}
+    {% include card.html post=post %}
+  {% endfor %}
+</div>

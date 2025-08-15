@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  {%- seo -%}
+  <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+  <script defer src="{{ '/assets/js/swipe.js' | relative_url }}"></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="brand">
+      <div class="logo">TCB</div>
+      <a class="wordmark" href="{{ '/' | relative_url }}">The Corporate Brief</a>
+    </div>
+    <nav class="tabs">
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/pages/macro.html' | relative_url }}">Macro</a>
+      <a href="{{ '/pages/geopolitics.html' | relative_url }}">Geopolitics</a>
+      <a href="{{ '/pages/deals.html' | relative_url }}">Deals</a>
+      <a href="{{ '/pages/ipos.html' | relative_url }}">IPOs</a>
+      <a href="{{ '/pages/companies.html' | relative_url }}">Companies</a>
+      <a href="{{ '/pages/archive.html' | relative_url }}">Archive</a>
+      <a href="{{ '/pages/search.html' | relative_url }}">Search</a>
+    </nav>
+  </header>
+  <main class="container">
+    {{ content }}
+  </main>
+  <footer class="site-footer">
+    <p>&copy; {{ site.time | date: "%Y" }} The Corporate Brief -- informational only, not investment advice.</p>
+  </footer>
+</body>
+</html>

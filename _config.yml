@@ -1,0 +1,19 @@
+title: "The Corporate Brief"
+description: "Weekly markets, macro, deals, IPOs -- concise and credible."
+timezone: Europe/London
+url: ""
+baseurl: ""
+markdown: kramdown
+highlighter: rouge
+collections:
+  posts:
+    output: true
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - node_modules
+  - vendor
+  - README.md
+  - .github

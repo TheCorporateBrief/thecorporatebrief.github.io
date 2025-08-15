@@ -1,0 +1,9 @@
+---
+layout: default
+title: Geopolitics
+---
+<h2>Geopolitics</h2>
+<div class="grid">
+{% assign posts_filtered = site.posts | where_exp: "p", "p.categories contains 'geopolitics'" %}
+{% for post in posts_filtered %}{% include card.html post=post %}{% endfor %}
+</div>
