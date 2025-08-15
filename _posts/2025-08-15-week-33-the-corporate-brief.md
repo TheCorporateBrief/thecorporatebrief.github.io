@@ -1,7 +1,9 @@
 ---
-title: "The Corporate Brief — Week 33 2025"
+title: "The Corporate Brief — Week 33 (15 Aug 2025)"
 date: 2025-08-15
 week: 33
+categories: [macro, geopolitics, deals, ipos, companies]
+subhead: "Top macro, geopolitics, deals, IPOs, companies & tech from the week."
 tags: [weekly, markets, macro, geopolitics, deals, ipos, companies]
 ---
 
