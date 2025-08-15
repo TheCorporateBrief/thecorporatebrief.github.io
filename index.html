@@ -2,13 +2,26 @@
 layout: default
 title: Home
 ---
+{% assign latest = site.posts | sort: 'date' | last %}
+{% assign week_no = latest.week | default: site.time | date: "%V" %}
 <section class="hero">
   <h1>The Corporate Brief</h1>
   <p class="tagline">Weekly TL;DR on markets, macro, geopolitics, deals & IPOs.</p>
+  <p class="meta">Week {{ week_no }} — {{ latest.date | date: "%d %b %Y" }}</p>
 </section>
-<div class="scroll-row">
-  {% assign posts_sorted = site.posts | sort: 'date' | reverse %}
-  {% for post in posts_sorted limit: 10 %}
-    {% include card.html post=post %}
+
+<div class="grid">
+  {% for post in site.posts limit: 8 %}
+  <article class="card">
+    <div class="card-body">
+      <div class="caps">{{ post.date | date: "%d %b %Y" }}</div>
+      <h3 class="card-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      {% if post.subhead %}<p class="subhead">{{ post.subhead }}</p>{% endif %}
+      <p><a class="read" href="{{ post.url | relative_url }}">Read this week’s brief →</a></p>
+      <div class="badges">
+        {% for c in post.categories %}<span class="badge">{{ c }}</span>{% endfor %}
+      </div>
+    </div>
+  </article>
   {% endfor %}
 </div>
