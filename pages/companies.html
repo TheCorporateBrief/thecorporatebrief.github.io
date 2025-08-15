@@ -4,6 +4,6 @@ title: Companies & Tech
 ---
 <h2>Companies & Tech</h2>
 <div class="grid">
-{% assign posts_filtered = site.posts | where_exp: "p", "p.categories contains 'companies'" %}
-{% for post in posts_filtered %}{% include card.html post=post %}{% endfor %}
+{% assign list = site.posts | where_exp: "p", "p.categories contains 'companies'" | sort: 'date' | reverse %}
+{% for post in list %}{% include card.html post=post %}{% endfor %}
 </div>
