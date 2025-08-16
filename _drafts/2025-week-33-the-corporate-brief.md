@@ -1,6 +1,6 @@
 ---
 title: "The Corporate Brief — Week 33 2025"
-date: 2025-08-16
+date: 2025-08-17
 week: 33
 tags: [weekly, markets, macro, geopolitics, deals, ipos, companies]
 ---
@@ -85,10 +85,6 @@ _(add S&P/Nasdaq/FTSE/crypto quick numbers)_
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)  
   - TCB take: —
-- **OpenAI in talks to sell around $6 billion in stock at roughly $500 billion valuation** — *The talks are still in early stages and the details could change.*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html](https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html)  
-  - TCB take: —
 - **Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know** — *Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.*  
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html](https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html)  
@@ -96,6 +92,10 @@ _(add S&P/Nasdaq/FTSE/crypto quick numbers)_
 - **46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog** — *Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.*  
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html](https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html)  
+  - TCB take: —
+- **OpenAI in talks to sell around $6 billion in stock at roughly $500 billion valuation** — *The talks are still in early stages and the details could change.*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html](https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html)  
   - TCB take: —
 
 # On the Radar
