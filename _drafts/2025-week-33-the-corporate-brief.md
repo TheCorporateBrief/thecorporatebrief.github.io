@@ -1,6 +1,6 @@
 ---
 title: "The Corporate Brief — Week 33 2025"
-date: 2025-08-15
+date: 2025-08-16
 week: 33
 tags: [weekly, markets, macro, geopolitics, deals, ipos, companies]
 ---
@@ -9,9 +9,9 @@ tags: [weekly, markets, macro, geopolitics, deals, ipos, companies]
 _(add S&P/Nasdaq/FTSE/crypto quick numbers)_
 
 # Macro/Policy
-- **Why Slate Automotive says it has cracked the code to affordable EVs** — *Slate Automotive says its compact pickup truck has cracked the code to making affordable, U.S.-built EVs. Can it still succeed without a federal tax credit?*  
+- **Why Wall Street kept sending the S&P 500, Nasdaq to fresh records this week** — *Wall Street speculated on how a spate of economic data would impact the Federal Reserve's next interest rate decision.*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/why-slate-automotive-says-it-has-cracked-the-code-to-affordable-evs.html](https://www.cnbc.com/2025/08/15/why-slate-automotive-says-it-has-cracked-the-code-to-affordable-evs.html)  
+  - Source: [https://www.cnbc.com/2025/08/16/why-wall-street-kept-sending-the-sp-500-nasdaq-to-fresh-records-this-week-.html](https://www.cnbc.com/2025/08/16/why-wall-street-kept-sending-the-sp-500-nasdaq-to-fresh-records-this-week-.html)  
   - TCB take: —
 - **Fed's Goolsbee sees 'note of unease' as central bank looks to next interest rate move** — *Goolsbee said a mixed bag of inflation data coupled with uncertainty over tariffs have given him pause about lowering rates.*  
   - Why it matters: _(one-liner)_  
@@ -21,49 +21,53 @@ _(add S&P/Nasdaq/FTSE/crypto quick numbers)_
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/what-trumps-fed-chair-candidates-have-had-to-say-in-cnbc-interviews.html](https://www.cnbc.com/2025/08/15/what-trumps-fed-chair-candidates-have-had-to-say-in-cnbc-interviews.html)  
   - TCB take: —
-- **U.S. shoppers fuel jewelry splurge despite tariff headwinds** — *Danish jewelry brand Pandora said Friday that the U.S. continued to be an outlier amid weaker global sales.*  
+- **UK consumers risk inflation hit to savings for first time in two years** — *Banks slash interest rates paid to customers in response to base rate cuts; inflation forecast to peak at 4%*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/us-shoppers-fuel-jewelry-splurge-despite-tariff-headwinds.html](https://www.cnbc.com/2025/08/15/us-shoppers-fuel-jewelry-splurge-despite-tariff-headwinds.html)  
-  - TCB take: —
-- **Mortgage rates have made a 'substantial improvement,' economist says — here’s what to know** — *Many homeowners refinanced their mortgages at the start of August as interest rates lowered. Here's how to know if it's time to consider it, per experts.*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/how-to-know-its-time-to-refinance-a-mortgage.html](https://www.cnbc.com/2025/08/15/how-to-know-its-time-to-refinance-a-mortgage.html)  
+  - Source: [https://www.ft.com/content/9149ba6f-016f-4316-bfd0-232a419ae1a1](https://www.ft.com/content/9149ba6f-016f-4316-bfd0-232a419ae1a1)  
   - TCB take: —
 
 # Geopolitics
-- **Trump meets Putin in Alaska for summit on Ukraine war** — *"Trump wants to exhaust all options to have a peaceful end to war," the White House said in advance of his meeting with Vladimir Putin.*  
+- **Zelenskyy to meet with Trump after Putin talks end without a ceasefire** — *Zelenskyy said he and Trump would meet Monday to "discuss all of the details regarding ending the killing and the war."*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/nothing-is-off-the-table-as-trump-and-putin-set-to-meet.html](https://www.cnbc.com/2025/08/15/nothing-is-off-the-table-as-trump-and-putin-set-to-meet.html)  
+  - Source: [https://www.cnbc.com/2025/08/16/trump-putin-russia-ukraine-zelensky-.html](https://www.cnbc.com/2025/08/16/trump-putin-russia-ukraine-zelensky-.html)  
+  - TCB take: —
+- **China's booming bubble tea industry faces a test: Is it here to stay or just a fad?** — *Market saturation at home, rising costs and intense price wars are testing the resilience of the country's bubble tea brands.*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.cnbc.com/2025/08/15/chinas-bubble-tea-industry-is-it-here-to-stay-or-just-a-fad.html](https://www.cnbc.com/2025/08/15/chinas-bubble-tea-industry-is-it-here-to-stay-or-just-a-fad.html)  
   - TCB take: —
 - **Applied Materials sinks 14% on weak guidance due to China demand** — *Applied Materials cited weakness from leading edge customers and said China clients are easing spending after a period of rapid manufacturing.*  
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/applied-materials-stock-china-demand-earnings.html](https://www.cnbc.com/2025/08/15/applied-materials-stock-china-demand-earnings.html)  
   - TCB take: —
-- **‘May God give the right words to President Trump’: Anchorage awaits Putin summit** — *Ukrainian refugees in Alaska have mixed feelings about US and Russian leaders’ meeting*  
+- **Putin demanded Ukraine cede Donetsk and Luhansk in exchange for freezing rest of front line** — *Russian president reiterated ‘core demands’ that would undermine Ukraine’s statehood and roll back Nato expansion*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.ft.com/content/b2c26041-d1b4-44d3-96fe-cb1f17cd39fa](https://www.ft.com/content/b2c26041-d1b4-44d3-96fe-cb1f17cd39fa)  
+  - Source: [https://www.ft.com/content/6b0b4912-9438-4de0-aebe-2a8dd804cbab](https://www.ft.com/content/6b0b4912-9438-4de0-aebe-2a8dd804cbab)  
+  - TCB take: —
+- **Backlash in Washington as Trump gives Putin a red carpet welcome in Alaska** — *First meeting since full-scale invasion of Ukraine three years ago attracts criticism from the president’s allies*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.ft.com/content/b96b6997-8db4-4cb4-8a74-60b5369e787b](https://www.ft.com/content/b96b6997-8db4-4cb4-8a74-60b5369e787b)  
   - TCB take: —
 
 # Deals
-- **UnitedHealth shares jump the most since 2008 after Buffett's new stake is revealed** — *The advance came after Buffett's conglomerate Berkshire Hathaway revealed a stake of 5 million shares, worth about $1.6 billion.*  
+- **Trump warned by top Senate Democrats to rethink advanced AI chip sales to China** — *On Aug. 15, top Senate Democrats warned Trump about AI chip deal with China in an open letter*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html](https://www.cnbc.com/2025/08/16/senate-democrats-letter-trump-advanced-ai-chip-sales-china.html)  
+  - TCB take: —
+- **Engine Capital takes a stake in Avantor. Activist sees several ways to create value** — *Engine believes that Avantor's significant underperformance is a consequence of self-inflicted mistakes rooted in a flawed leadership team and framework.*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.cnbc.com/2025/08/16/engine-capital-takes-a-stake-in-avantor-activist-sees-several-ways-to-create-value.html](https://www.cnbc.com/2025/08/16/engine-capital-takes-a-stake-in-avantor-activist-sees-several-ways-to-create-value.html)  
+  - TCB take: —
+- **UnitedHealth shares log best day since 2020 after Buffett's new stake is revealed** — *The advance came after Buffett's conglomerate Berkshire Hathaway revealed a stake of 5 million shares, worth about $1.6 billion.*  
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/unitedhealth-shares-soar-after-warren-buffetts-new-stake-provides-a-vote-of-confidence.html](https://www.cnbc.com/2025/08/15/unitedhealth-shares-soar-after-warren-buffetts-new-stake-provides-a-vote-of-confidence.html)  
+  - TCB take: —
+- **27 is the 'ideal' age to start saving for retirement, survey-takers say — but CFPs suggest even earlier** — *Some Americans believe they should start saving for retirement at age 27, a report found. Here's how to get there.*  
+  - Why it matters: _(one-liner)_  
+  - Source: [https://www.cnbc.com/2025/08/16/age-to-start-saving-for-retirement.html](https://www.cnbc.com/2025/08/16/age-to-start-saving-for-retirement.html)  
   - TCB take: —
 - **Government's Intel intervention is 'essential' for national security, tech analyst says** — *Luria said such a deal is needed to revive Intel and reduce the country's reliance on companies like Samsung and TSMC to manufacture chips.*  
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/intel-trump-stake.html](https://www.cnbc.com/2025/08/15/intel-trump-stake.html)  
-  - TCB take: —
-- **Judge sets hearing Friday on lawsuit challenging Trump takeover of DC police force** — *Trump on Monday federalized the Washington, D.C., police department and ordered the deployment of National Guard troops in the capital city.*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/dc-sues-trump-police.html](https://www.cnbc.com/2025/08/15/dc-sues-trump-police.html)  
-  - TCB take: —
-- **Is the activist heat on Salesforce ramping back up? The market sure thinks so** — *Starboard Value, which successfully pushed for changes at Salesforce a few years ago, has upped its stake in the software provider.*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/is-the-activist-heat-on-salesforce-ramping-back-up-the-market-sure-thinks-so.html](https://www.cnbc.com/2025/08/15/is-the-activist-heat-on-salesforce-ramping-back-up-the-market-sure-thinks-so.html)  
-  - TCB take: —
-- **High-stakes Trump-Putin summit over Ukraine begins in Alaska** — *US president says no business deals with Moscow until Ukraine war ‘settled’*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.ft.com/content/c676f264-00f8-4565-a461-86ccf7e3127e](https://www.ft.com/content/c676f264-00f8-4565-a461-86ccf7e3127e)  
   - TCB take: —
 
 # IPOs
@@ -71,31 +75,27 @@ _(add S&P/Nasdaq/FTSE/crypto quick numbers)_
   - Why it matters: _(one-liner)_  
   - Source: [https://www.cnbc.com/2025/08/15/tech-ipos-bullish-figma-circle-roaring-after-years-of-prohibition-.html](https://www.cnbc.com/2025/08/15/tech-ipos-bullish-figma-circle-roaring-after-years-of-prohibition-.html)  
   - TCB take: —
-- **GPT-5's rollout fell flat for consumers, but the AI model is gaining where it matters most** — *Since its debut, GPT-5 has more than doubled coding and agent-building activity and driven an eight-fold jump in reasoning workloads.*  
-  - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/14/gpt-5-openai-ai-enterprise.html](https://www.cnbc.com/2025/08/14/gpt-5-openai-ai-enterprise.html)  
-  - TCB take: —
 
 # Companies & Tech
-- **Summer travel isn't as easy as it used to be for airlines** — *Airlines are seeing an earlier drop-off in summer travel as children return to school earlier.*  
+- **Bill Gates meets Willy Wonka: How Epic's 82-year-old billionaire CEO, Judy Faulkner, built her software factory** — *Judy Faulkner has run Epic Systems for 46 years and has a detailed plan for what happens when she's no longer the boss.*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/airlines-summer-travel-changes-american-delta-united-southwest-jetblue.html](https://www.cnbc.com/2025/08/15/airlines-summer-travel-changes-american-delta-united-southwest-jetblue.html)  
+  - Source: [https://www.cnbc.com/2025/08/16/how-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html](https://www.cnbc.com/2025/08/16/how-epics-82-year-old-ceo-judy-faulkner-built-her-software-factory.html)  
   - TCB take: —
-- **Sen. Hawley to probe Meta AI bot policies for children following damning report** — *Sen. Josh Hawley called on Meta CEO Mark Zuckerberg to preserve relevant materials, including emails.*  
+- **Samsung taking market share from Apple in U.S. as foldable phones gain momentum** — *Samsung introduced two folding phones in July that are garnering praise on social media and putting pressure on Apple to deliver new types of iPhones*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/meta-ai-bot-child-investigation.html](https://www.cnbc.com/2025/08/15/meta-ai-bot-child-investigation.html)  
+  - Source: [https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html](https://www.cnbc.com/2025/08/16/samsungs-us-market-share-apple-rivalry-foldable-phones.html)  
   - TCB take: —
-- **Opendoor CEO resigns following investor pressure campaign** — *Opendoor CEO Carrie Wheeler said on Friday that she's resigning following "weeks of intense outside interest" in the online real estate company.*  
+- **OpenAI in talks to sell around $6 billion in stock at roughly $500 billion valuation** — *The talks are still in early stages and the details could change.*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/opendoor-stock-ceo-resignation.html](https://www.cnbc.com/2025/08/15/opendoor-stock-ceo-resignation.html)  
+  - Source: [https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html](https://www.cnbc.com/2025/08/15/openai-6-billion-stock-500-billion-valuation.html)  
   - TCB take: —
-- **States where residents could see the biggest tax benefit from Trump's 'big beautiful bill'** — *President Donald Trump's "big beautiful bill" enacted trillions in tax breaks. But residents in certain states and counties could see a bigger benefit.*  
+- **Student loan forgiveness program has a 72,730-person backlog. Here's what borrowers need to know** — *Many student loan borrowers have likely heard about or experienced issues with the Public Service Loan Forgivness 'Buyback' program. Here's what to know.*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/trump-big-beautiful-bill-who-benefits.html](https://www.cnbc.com/2025/08/15/trump-big-beautiful-bill-who-benefits.html)  
+  - Source: [https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html](https://www.cnbc.com/2025/08/15/public-service-loan-forgiveness-buyback-has-a-72730-person-backlog.html)  
   - TCB take: —
-- **Why a landmark ruling from the world’s top court puts financial markets on notice** — *The International Court of Justice recently delivered its first-ever advisory opinion on the obligations of states in respect of climate change.*  
+- **46-year-old woman is weeks away from student loan forgiveness but stuck in Trump-era backlog** — *Tens of thousands of student loan borrowers who are likely eligible for Public Service Loan Forgiveness are stuck in limbo. CNBC spoke to three of them.*  
   - Why it matters: _(one-liner)_  
-  - Source: [https://www.cnbc.com/2025/08/15/climate-why-a-landmark-icj-ruling-puts-financial-markets-on-notice.html](https://www.cnbc.com/2025/08/15/climate-why-a-landmark-icj-ruling-puts-financial-markets-on-notice.html)  
+  - Source: [https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html](https://www.cnbc.com/2025/08/15/student-loan-forgiveness-trump-pslf-backlog.html)  
   - TCB take: —
 
 # On the Radar
