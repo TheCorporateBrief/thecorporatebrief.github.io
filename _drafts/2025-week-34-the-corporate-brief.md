@@ -1,6 +1,6 @@
 ---
 title: "The Corporate Brief — Week 34 2025"
-date: 2025-08-23
+date: 2025-08-24
 week: 34
 tags: [weekly, markets, macro, geopolitics, deals, ipos, companies]
 ---
